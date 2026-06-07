@@ -42,7 +42,7 @@ A clean and functional to-do list app with persistent storage.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Octanet-WD-internship.git
+git clone https://github.com/Anjalee-29/Octanet-WD-internship.git
 cd Octanet-WD-internship
 ```
 
@@ -55,7 +55,7 @@ landing-page/index.html
 
 **To-Do List:**
 ```
-todo-list/index.html
+todo-list/index1.html
 ```
 
 ---
@@ -69,9 +69,9 @@ todo-list/index.html
 │   └── script.js        # Navbar toggle + parallax + GSAP animations
 │
 ├── todo-list/
-│   ├── index.html       # To-do list markup
-│   ├── style.css        # To-do list styles
-│   └── script.js        # Add, check, delete, and persist tasks
+│   ├── index1.html       # To-do list markup
+│   ├── style1.css        # To-do list styles
+│   └── script1.js        # Add, check, delete, and persist tasks
 │
 └── README.md
 ```
@@ -83,9 +83,3 @@ todo-list/index.html
 - Both projects are fully client-side — no backend or installation required
 - The To-Do List uses `localStorage` to persist tasks across page refreshes
 - All external libraries (Font Awesome, GSAP, Google Fonts) are loaded via CDN — an internet connection is required
-
----
-
-## 📄 License
-
-MIT License
