@@ -42,7 +42,7 @@ A clean and functional to-do list app with persistent storage.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Octanet-WD-internship.git
+git clone https://github.com/Anjalee-29/Octanet-WD-internship.git
 cd Octanet-WD-internship
 ```
 
@@ -83,9 +83,3 @@ todo-list/index.html
 - Both projects are fully client-side — no backend or installation required
 - The To-Do List uses `localStorage` to persist tasks across page refreshes
 - All external libraries (Font Awesome, GSAP, Google Fonts) are loaded via CDN — an internet connection is required
-
----
-
-## 📄 License
-
-MIT License
