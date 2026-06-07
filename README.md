@@ -55,7 +55,7 @@ landing-page/index.html
 
 **To-Do List:**
 ```
-todo-list/index1.html
+todo-list/index.html
 ```
 
 ---
@@ -69,9 +69,9 @@ todo-list/index1.html
 │   └── script.js        # Navbar toggle + parallax + GSAP animations
 │
 ├── todo-list/
-│   ├── index1.html       # To-do list markup
-│   ├── style1.css        # To-do list styles
-│   └── script1.js        # Add, check, delete, and persist tasks
+│   ├── index.html       # To-do list markup
+│   ├── style.css        # To-do list styles
+│   └── script.js        # Add, check, delete, and persist tasks
 │
 └── README.md
 ```
