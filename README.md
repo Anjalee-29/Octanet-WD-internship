@@ -75,9 +75,6 @@ todo-list/index.html
 │
 └── README.md
 ```
-
----
-
 ## 📝 Notes
 
 - Both projects are fully client-side — no backend or installation required
