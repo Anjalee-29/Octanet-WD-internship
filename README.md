@@ -58,8 +58,6 @@ landing-page/index.html
 todo-list/index.html
 ```
 
----
-
 ## 📁 Project Structure
 
 ```
